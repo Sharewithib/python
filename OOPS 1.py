@@ -64,7 +64,7 @@ class python1:
     def __init__(self,w1,w2,w3):
         self.w1=w1
         self.w2=w2
-        self.w3=w3
+        a=5
     @property    #
     def total(self):
         return (self.w1+self.w2+self.w3)
